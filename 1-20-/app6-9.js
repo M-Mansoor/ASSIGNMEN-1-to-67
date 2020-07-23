@@ -1,0 +1,1 @@
+document.write("<table><tr><td>"+english+"</td><td>"+total+"</td><td>"+Marksobtain+"</td><td>"+percentage+"</td></tr></table>")
